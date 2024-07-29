@@ -4,5 +4,6 @@ Sistema CRUD capaz de alterar, criar, consultar e remover informações no banco
 Informações extras
 ---
 ```
-Em breve.
+Peso do software: 7.84 MB
+Compilado com pyinstaller o arquivo main.py
 ```
